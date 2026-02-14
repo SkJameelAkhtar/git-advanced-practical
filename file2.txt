@@ -1,2 +1,3 @@
 Initial content 2
 Second commit changes in file2
+Feature-2 update in file2
