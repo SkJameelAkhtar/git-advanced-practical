@@ -1,1 +1,2 @@
 Initial content 2
+Second commit changes in file2
