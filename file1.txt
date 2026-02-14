@@ -1,3 +1,4 @@
 Initial content 1
 Second commit changes in file1
 Master different modification in file1
+Feature-1 modification in file1
